@@ -1,5 +1,5 @@
 # Manage-HyperV-NODOMAIN
-script that enables hyperv role and enables you to manage it
+script that enables hyper-v management role and enables you to manage remote hyper-v server without being in same domain
 
 Used guide and created script from it: https://timothygruber.com/hyper-v-2/remotely-managing-hyper-v-server-in-a-workgroup-or-non-domain/
 
